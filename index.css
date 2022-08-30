@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 1rem;
+    touch-action: none;
+}
+
+.slide {
+    height: 20rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.slide-1 {
+    background: #3f72ff;
+}
+
+.slide-2 {
+    background: #fc4753;
+}
+
+.slide-3 {
+    background: #ff3fdf;
+}
+
+.slide-4 {
+    background: #ffc43f;
+}
